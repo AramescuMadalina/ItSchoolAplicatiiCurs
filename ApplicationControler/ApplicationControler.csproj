@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Application10\Application10.csproj" />
+    <ProjectReference Include="..\Application11\Application11.csproj" />
+    <ProjectReference Include="..\Application12\Application12.csproj" />
+    <ProjectReference Include="..\Application13\Application13.csproj" />
+    <ProjectReference Include="..\Application14\Application14.csproj" />
+    <ProjectReference Include="..\Application15\Application15.csproj" />
+    <ProjectReference Include="..\Application16\Application16.csproj" />
+    <ProjectReference Include="..\Application17\Application17.csproj" />
+    <ProjectReference Include="..\Application18\Application18.csproj" />
+    <ProjectReference Include="..\Application19\Application19.csproj" />
+    <ProjectReference Include="..\Application1\Application1.csproj" />
+    <ProjectReference Include="..\Application20\Application20.csproj" />
+    <ProjectReference Include="..\Application2\Application2.csproj" />
+    <ProjectReference Include="..\Application3\Application3.csproj" />
+    <ProjectReference Include="..\Application4\Application4.csproj" />
+    <ProjectReference Include="..\Application5\Application5.csproj" />
+    <ProjectReference Include="..\Application6\Application6.csproj" />
+    <ProjectReference Include="..\Application7\Application7.csproj" />
+    <ProjectReference Include="..\Application8\Application8.csproj" />
+    <ProjectReference Include="..\ItSchool.App.Utilities\ItSchool.App.Utilities.csproj" />
+  </ItemGroup>
+
+</Project>
